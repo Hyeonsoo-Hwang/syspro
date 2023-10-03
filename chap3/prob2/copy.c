@@ -1,3 +1,4 @@
+//#include "copy.h"
 #include <stdio.h>
 
 void copy(char from[], char to[])
