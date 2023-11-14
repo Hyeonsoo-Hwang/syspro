@@ -1,0 +1,1 @@
+0 -rw-r--r-- 1 root root 0 11월 14일  21:38 test.txt
